@@ -107,10 +107,10 @@ C,81,SubjExp,distrust,Active,That's the scientist that the artist strongly distr
 D,81,ObjExp,perturb,Active,That's the scientist that the artist strongly perturbs on account of his being late for meetings.,15,8,Negative,NN
 A,81,SubjExp,distrust,Passive,That's the artist that the scientist is strongly distrusted by on account of his being late for meetings.,23,10,Negative,NN
 B,81,ObjExp,perturb,Passive,That's the artist that the scientist is strongly perturbed by on account of his being late for meetings.,15,9,Negative,NN
-B,82,SubjExp,distrust,Active,That's the drummer that the guitarist strongly distrusts on account of his neverending primadonnism.,23,9,Negative,NN
-C,82,ObjExp,perturb,Passive,That's the guitarist that the drummer is strongly perturbed by on account of his neverending primadonnism.,15,9,Negative,NN
-D,82,SubjExp,distrust,Passive,That's the guitarist that the drummer is strongly distrusted by on account of his neverending primadonnism.,23,10,Negative,NN
-A,82,ObjExp,perturb,Active,That's the drummer that the guitarist strongly perturbs on account of his neverending primadonnism.,15,8,Negative,NN
+B,82,SubjExp,distrust,Active,That's the drummer that the guitarist strongly distrusts on account of his never-ending primadonnism.,23,9,Negative,NN
+C,82,ObjExp,perturb,Passive,That's the guitarist that the drummer is strongly perturbed by on account of his never-ending primadonnism.,15,9,Negative,NN
+D,82,SubjExp,distrust,Passive,That's the guitarist that the drummer is strongly distrusted by on account of his never-ending primadonnism.,23,10,Negative,NN
+A,82,ObjExp,perturb,Active,That's the drummer that the guitarist strongly perturbs on account of his never-ending primadonnism.,15,8,Negative,NN
 A,83,SubjExp,esteem,Active,That's the lawyer that the judge greatly esteems despite his conduct in the courtroom.,12,7,Positive,PN
 B,83,ObjExp,appall,Active,That's the lawyer that the judge greatly appalls despite his conduct in the courtroom.,11,7,Negative,PN
 C,83,SubjExp,esteem,Passive,That's the judge that the lawyer is greatly esteemed by despite his conduct in the courtroom.,12,8,Positive,PN
