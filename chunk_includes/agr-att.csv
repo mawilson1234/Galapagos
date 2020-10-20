@@ -48,21 +48,21 @@ A,6,Gram,Mismatch,Long,"The gardens that, despite the summer heat, the botanist 
 B,6,Ungram,Match,Long,"The garden that, despite the summer heat, the botanist are currently collecting specimens in, is home to many exotic plants."
 C,6,Ungram,Mismatch,Long,"The gardens that, despite the summer heat, the botanist are currently collecting specimens in, are home to many exotic plants."
 C,7,Gram,Match,Short,The ruin that the archaeologist was meticulously excavating artifacts in was the site of important cultural events.
-D,7,Gram,Mismatch,Short,The ruins that the archaelogist was meticulously excavating artifacts in were the site of important cultural events.
+D,7,Gram,Mismatch,Short,The ruins that the archaeologist was meticulously excavating artifacts in were the site of important cultural events.
 E,7,Ungram,Match,Short,The ruin that the archaeologist were meticulously excavating artifacts in was the site of important cultural events.
 F,7,Ungram,Mismatch,Short,The ruins that the archaeologist were meticulously excavating artifacts in were the site of important cultural events.
 G,7,Gram,Match,Long,"The ruin that, this time last spring, the archaeologist was meticulously excavating artifacts in, was the site of important cultural events."
-H,7,Gram,Mismatch,Long,"The ruins that, this time last spring, the archaelogist was meticulously excavating artifacts in, were the site of important cultural events."
+H,7,Gram,Mismatch,Long,"The ruins that, this time last spring, the archaeologist was meticulously excavating artifacts in, were the site of important cultural events."
 A,7,Ungram,Match,Long,"The ruin that, this time last spring, the archaeologist were meticulously excavating artifacts in, was the site of important cultural events."
 B,7,Ungram,Mismatch,Long,"The ruins that, this time last spring, the archaeologist were meticulously excavating artifacts in, were the site of important cultural events."
-B,8,Gram,Match,Short,The library that the mayor is enthusiastically promoting educational events at is in desparate need of funding.
-C,8,Gram,Mismatch,Short,The libraries that the mayor is enthusiastically promoting educational events at are in desparate need of funding.
-D,8,Ungram,Match,Short,The library that the mayor are enthusiastically promoting educational events at is in desparate need of funding.
-E,8,Ungram,Mismatch,Short,The libraries that the mayor are enthusiastically promoting educational events at are in desparate need of funding.
-F,8,Gram,Match,Long,"The library that, once each winter month, the mayor is enthusiastically promoting educational events at, is in desparate need of funding."
-G,8,Gram,Mismatch,Long,"The libraries that, once each winter month, the mayor is enthusiastically promoting educational events at, are in desparate need of funding."
-H,8,Ungram,Match,Long,"The library that, once each winter month, the mayor are enthusiastically promoting educational events at, is in desparate need of funding."
-A,8,Ungram,Mismatch,Long,"The libraries that, once each winter month, the mayor are enthusiastically promoting educational events at, are in desparate need of funding."
+B,8,Gram,Match,Short,The library that the mayor is enthusiastically promoting educational events at is in desperate need of funding.
+C,8,Gram,Mismatch,Short,The libraries that the mayor is enthusiastically promoting educational events at are in desperate need of funding.
+D,8,Ungram,Match,Short,The library that the mayor are enthusiastically promoting educational events at is in desperate need of funding.
+E,8,Ungram,Mismatch,Short,The libraries that the mayor are enthusiastically promoting educational events at are in desperate need of funding.
+F,8,Gram,Match,Long,"The library that, once each winter month, the mayor is enthusiastically promoting educational events at, is in desperate need of funding."
+G,8,Gram,Mismatch,Long,"The libraries that, once each winter month, the mayor is enthusiastically promoting educational events at, are in desperate need of funding."
+H,8,Ungram,Match,Long,"The library that, once each winter month, the mayor are enthusiastically promoting educational events at, is in desperate need of funding."
+A,8,Ungram,Mismatch,Long,"The libraries that, once each winter month, the mayor are enthusiastically promoting educational events at, are in desperate need of funding."
 A,9,Gram,Match,Short,The set that the director was recently filming at is intricately detailed.
 B,9,Gram,Mismatch,Short,The sets that the director was recently filming at are intricately detailed.
 C,9,Ungram,Match,Short,The set that the director were recently filming at is intricately detailed.
@@ -97,11 +97,11 @@ D,12,Ungram,Match,Long,"The hallway that, every night last week, the guard were 
 E,12,Ungram,Mismatch,Long,"The hallways that, every night last week, the guard were cautiously patrolling in, are equipped with security cameras."
 E,13,Gram,Match,Short,The burner that the chef was meticulously simmering risotto on is precisely calibrated for heat.
 F,13,Gram,Mismatch,Short,The burners that the chef was meticulously simmering risotto on are precisely calibrated for heat.
-G,13,Ungram,Match,Short,The burner that the chef were meticulously simmering risotto on is precisly calibrated for heat.
+G,13,Ungram,Match,Short,The burner that the chef were meticulously simmering risotto on is precisely calibrated for heat.
 H,13,Ungram,Mismatch,Short,The burners that the chef were meticulously simmering risotto on are precisely calibrated for heat.
 A,13,Gram,Match,Long,"The burner that, for the last hour, the chef was meticulously simmering risotto on, is precisely calibrated for heat."
 B,13,Gram,Mismatch,Long,"The burners that, for the last hour, the chef was meticulously simmering risotto on, are precisely calibrated for heat."
-C,13,Ungram,Match,Long,"The burner that, for the last hour, the chef were meticulously simmering risotto on, is precisly calibrated for heat."
+C,13,Ungram,Match,Long,"The burner that, for the last hour, the chef were meticulously simmering risotto on, is precisely calibrated for heat."
 D,13,Ungram,Mismatch,Long,"The burners that, for the last hour, the chef were meticulously simmering risotto on, are precisely calibrated for heat."
 D,14,Gram,Match,Short,The orchard that the gardener is carefully cultivating cherry trees in looks beautiful in the evening light.
 E,14,Gram,Mismatch,Short,The orchards that the gardener is carefully cultivating cherry trees in look beautiful in the evening light.
@@ -209,11 +209,11 @@ F,26,Ungram,Match,Long,"The aisle that, because of the big spill, the attendant 
 G,26,Ungram,Mismatch,Long,"The aisles that, because of the big spill, the attendant are vigorously mopping in, are not currently open to customers."
 G,27,Gram,Match,Short,The branch that the monkey was exuberantly swinging from is gnarled and twisted.
 H,27,Gram,Mismatch,Short,The branches that the monkey was exuberantly swinging from are gnarled and twisted.
-A,27,Ungram,Match,Short,The branch that the monkery were exuberantly swinging from is gnarled and twisted.
+A,27,Ungram,Match,Short,The branch that the monkey were exuberantly swinging from is gnarled and twisted.
 B,27,Ungram,Mismatch,Short,The branches that the monkey were exuberantly swinging from are gnarled and twisted.
 C,27,Gram,Match,Long,"The branch that, just a minute ago, the monkey was exuberantly swinging from, is gnarled and twisted."
 D,27,Gram,Mismatch,Long,"The branches that, just a minute ago, the monkey was exuberantly swinging from, are gnarled and twisted."
-E,27,Ungram,Match,Long,"The branch that, just a minute ago, the monkery were exuberantly swinging from, is gnarled and twisted."
+E,27,Ungram,Match,Long,"The branch that, just a minute ago, the monkey were exuberantly swinging from, is gnarled and twisted."
 F,27,Ungram,Mismatch,Long,"The branches that, just a minute ago, the monkey were exuberantly swinging from, are gnarled and twisted."
 F,28,Gram,Match,Short,The puddle that the frog was noisily leaping around in is full of dirty brown water.
 G,28,Gram,Mismatch,Short,The puddles that the frog was noisily leaping around in are full of dirty brown water.
