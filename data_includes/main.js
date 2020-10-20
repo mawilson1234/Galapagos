@@ -32,7 +32,7 @@ SetCounter('setcounter')
 
 Sequence('setcounter', 'consent', 'instructions1', 'instructions2', 'instructions3', 'instructions4',
     randomize('trial_prac'), 'post-practice',
-    sepWithN('break', rshuffle('trial_agr-att', 'trial_that', 'trial_experiencer', 'trial_filler', 'trial_whif'), 48),
+    sepWithN('break', rshuffle('trial_agr-att', 'trial_that', 'trial_experiencer', 'trial_filler', 'trial_whif'), 49),
     'feedback', 'botcheck', SendResults(), 'bye')
 
 newTrial('consent',
