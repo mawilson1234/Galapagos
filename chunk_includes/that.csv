@@ -1,97 +1,97 @@
 Group,Item,Extraction,Comp,Sentence
-A,33,Subject,That,Who did the robber assume that knew the cashier?
-B,33,Subject,Null,Who did the robber assume knew the cashier?
-C,33,Object,That,Who did the robber assume that the cashier knew?
-D,33,Object,Null,Who did the robber assume the cashier knew?
-D,34,Subject,That,Who did the student think that interviewed the professor?
-A,34,Subject,Null,Who did the student think interviewed the professor?
-B,34,Object,That,Who did the student think that the professor interviewed?
-C,34,Object,Null,Who did the student think the professor interviewed?
-C,35,Subject,That,Who did the attorney argue that attacked the suspect?
-D,35,Subject,Null,Who did the attorney argue attacked the suspect?
-A,35,Object,That,Who did the attorney argue that the suspect attacked?
-B,35,Object,Null,Who did the attorney argue the suspect attacked?
-B,36,Subject,That,Who did the committee guess that consulted the dean?
-C,36,Subject,Null,Who did the committee guess consulted the dean?
-D,36,Object,That,Who did the committee guess that the dean consulted?
-A,36,Object,Null,Who did the committee guess the dean consulted?
-A,37,Subject,That,What did the breeder assume that bit the dog?
-B,37,Subject,Null,What did the breeder assume bit the dog?
-C,37,Object,That,What did the breeder assume that the dog bit?
-D,37,Object,Null,What did the breeder assume the dog bit?
-D,38,Subject,That,Who did the physicist claim that respected the author?
-A,38,Subject,Null,Who did the physicist claim respected the author?
-B,38,Object,That,Who did the physicist claim that the author respected?
-C,38,Object,Null,Who did the physicist claim the author respected?
-C,39,Subject,That,Who did Joe hint that broke up with Julia?
-D,39,Subject,Null,Who did Joe hint broke up with Julia?
-A,39,Object,That,Who did Joe hint that Julia broke up with?
-B,39,Object,Null,Who did Joe hint Julia broke up with?
-B,40,Subject,That,Who did the CEO hope that fired the manager?
-C,40,Subject,Null,Who did the CEO hope fired the manager?
-D,40,Object,That,Who did the CEO hope that the manager fired?
-A,40,Object,Null,Who did the CEO hope the manager fired?
-A,41,Subject,That,Who did the journalist insist that criticized the activist?
-B,41,Subject,Null,Who did the journalist insist criticized the activist?
-C,41,Object,That,Who did the journalist insist that the activist criticized?
-D,41,Object,Null,Who did the journalist insist the activist criticized?
-D,42,Subject,That,Who did the novelist suppose that loved the editor?
-A,42,Subject,Null,Who did the novelist suppose loved the editor?
-B,42,Object,That,Who did the novelist suppose that the editor loved?
-C,42,Object,Null,Who did the novelist suppose the editor loved?
-C,43,Subject,That,Who did the clown hope that loved the girl?
-D,43,Subject,Null,Who did the clown hope loved the girl?
-A,43,Object,That,Who did the clown hope that the girl loved?
-B,43,Object,Null,Who did the clown hope the girl loved?
-B,44,Subject,That,Who did the king think that protected the knight?
-C,44,Subject,Null,Who did the king think protected the knight?
-D,44,Object,That,Who did the king think that the knight protected?
-A,44,Object,Null,Who did the king think the knight protected?
-A,45,Subject,That,Who did the professor assume that admired the student?
-B,45,Subject,Null,Who did the professor assume admired the student?
-C,45,Object,That,Who did the professor assume that the student admired?
-D,45,Object,Null,Who did the professor assume the student admired?
-D,46,Subject,That,Who did the actress hope that nominated the director?
-A,46,Subject,Null,Who did the actress hope nominated the director?
-B,46,Object,That,Who did the actress hope that the director nominated?
-C,46,Object,Null,Who did the actress hope the director nominated?
-C,47,Subject,That,Who did the firefighter guess that rescued the boy?
-D,47,Subject,Null,Who did the firefighter guess rescued the boy?
-A,47,Object,That,Who did the firefighter guess that the boy rescued?
-B,47,Object,Null,Who did the firefighter guess the boy rescued?
-B,48,Subject,That,Who did the lawyer argue that hired the plaintiff?
-C,48,Subject,Null,Who did the lawyer argue hired the plaintiff?
-D,48,Object,That,Who did the lawyer argue that the plaintiff hired?
-A,48,Object,Null,Who did the lawyer argue the plaintiff hired?
-A,49,Subject,That,Who did the judge argue that bribed the defendant?
-B,49,Subject,Null,Who did the judge argue bribed the defendant?
-C,49,Object,That,Who did the judge argue that the defendant bribed?
-D,49,Object,Null,Who did the judge argue the defendant bribed?
-D,50,Subject,That,What did the bird watcher guess that attacked the bird?
-A,50,Subject,Null,What did the bird watcher guess attacked the bird?
-B,50,Object,That,What did the bird watcher guess that the bird attacked?
-C,50,Object,Null,What did the bird watcher guess the bird attacked?
-C,51,Subject,That,Who did the engineer claim that respects the astronaut?
-D,51,Subject,Null,Who did the engineer claim respects the astronaut?
-A,51,Object,That,Who did the engineer claim that the astronaut respects?
-B,51,Object,Null,Who did the engineer claim the astronaut respects?
-B,52,Subject,That,Who did the bus driver assume that helped the passenger?
-C,52,Subject,Null,Who did the bus driver assume helped the passenger?
-D,52,Object,That,Who did the bus driver assume that the passenger helped?
-A,52,Object,Null,Who did the bus driver assume the passenger helped?
-A,53,Subject,That,Who did the monk hint that loves the nun?
-B,53,Subject,Null,Who did the monk hint loves the nun?
-C,53,Object,That,Who did the monk hint that the nun loves?
-D,53,Object,Null,Who did the monk hint the nun loves?
-D,54,Subject,That,Who did the baker suppose that married the florist?
-A,54,Subject,Null,Who did the baker suppose married the florist?
-B,54,Object,That,Who did the baker suppose that the florist married?
-C,54,Object,Null,Who did the baker suppose the florist married?
-C,55,Subject,That,Who did the doctor think that loved the patient?
-D,55,Subject,Null,Who did the doctor think loved the patient?
-A,55,Object,That,Who did the doctor think that the patient loved?
-B,55,Object,Null,Who did the doctor think the patient loved?
-B,56,Subject,That,Who did the customer insist that called the salesperson?
-C,56,Subject,Null,Who did the customer insist called the salesperson?
-D,56,Object,That,Who did the customer insist that the salesperson called?
-A,56,Object,Null,Who did the customer insist the salesperson called?
+A,33,Matrix,That,Who assumed that the cashier knew the robber?
+B,33,Matrix,Null,Who assumed the cashier knew the robber?
+C,33,Embedded,That,Who did the robber assume that the cashier knew?
+D,33,Embedded,Null,Who did the robber assume the cashier knew?
+D,34,Matrix,That,Who thought that the professor interviewed the student?
+A,34,Matrix,Null,Who thought the professor interviewed the student?
+B,34,Embedded,That,Who did the student think that the professor interviewed?
+C,34,Embedded,Null,Who did the student think the professor interviewed?
+C,35,Matrix,That,Who argued that the suspect attacked the attorney?
+D,35,Matrix,Null,Who argued the suspect attacked the attorney?
+A,35,Embedded,That,Who did the attorney argue that the suspect attacked?
+B,35,Embedded,Null,Who did the attorney argue the suspect attacked?
+B,36,Matrix,That,Who guessed that the dean consulted the committee?
+C,36,Matrix,Null,Who guessed the dean consulted the committee?
+D,36,Embedded,That,Who did the committee guess that the dean consulted?
+A,36,Embedded,Null,Who did the committee guess the dean consulted?
+A,37,Matrix,That,Who assumed that the dog bit the breeder?
+B,37,Matrix,Null,Who assumed the dog bit the breeder?
+C,37,Embedded,That,Who did the breeder assume that the dog bit?
+D,37,Embedded,Null,Who did the breeder assume the dog bit?
+D,38,Matrix,That,Who claimed that the author respected the physicist?
+A,38,Matrix,Null,Who claimed the author respected the physicist?
+B,38,Embedded,That,Who did the physicist claim that the author respected?
+C,38,Embedded,Null,Who did the physicist claim the author respected?
+C,39,Matrix,That,Who hinted Julia broke up with joe hinted?
+D,39,Matrix,Null,Who hinted that Julia broke up with joe hinted?
+A,39,Embedded,That,Who did Joe hint Julia broke up with?
+B,39,Embedded,Null,Who did Joe hint that Julia broke up with?
+B,40,Matrix,That,Who hoped that the CEO fired the manager?
+C,40,Matrix,Null,Who hoped the CEO fired the manager?
+D,40,Embedded,That,Who did the manager hope that the CEO fired?
+A,40,Embedded,Null,Who did the manager hope the CEO fired?
+A,41,Matrix,That,Who insisted that the activist criticized the journalist?
+B,41,Matrix,Null,Who insisted the activist criticized the journalist?
+C,41,Embedded,That,Who did the journalist insist that the activist criticized?
+D,41,Embedded,Null,Who did the journalist insist the activist criticized?
+D,42,Matrix,That,Who supposed that the editor loved the novelist?
+A,42,Matrix,Null,Who supposed the editor loved the novelist?
+B,42,Embedded,That,Who did the novelist suppose that the editor loved?
+C,42,Embedded,Null,Who did the novelist suppose the editor loved?
+C,43,Matrix,That,Who hoped that the girl loved the clown?
+D,43,Matrix,Null,Who hoped the girl loved the clown?
+A,43,Embedded,That,Who did the clown hope that the girl loved?
+B,43,Embedded,Null,Who did the clown hope the girl loved?
+B,44,Matrix,That,Who thought that the knight protected the king?
+C,44,Matrix,Null,Who thought the knight protected the king?
+D,44,Embedded,That,Who did the king think that the knight protected?
+A,44,Embedded,Null,Who did the king think the knight protected?
+A,45,Matrix,That,Who assumed that the student admired the professor?
+B,45,Matrix,Null,Who assumed the student admired the professor?
+C,45,Embedded,That,Who did the professor assume that the student admired?
+D,45,Embedded,Null,Who did the professor assume the student admired?
+D,46,Matrix,That,Who hoped that the director nominated the actress?
+A,46,Matrix,Null,Who hoped the director nominated the actress?
+B,46,Embedded,That,Who did the actress hope that the director nominated?
+C,46,Embedded,Null,Who did the actress hope the director nominated?
+C,47,Matrix,That,Who guessed that the boy rescued the firefighter?
+D,47,Matrix,Null,Who guessed the boy rescued the firefighter?
+A,47,Embedded,That,Who did the firefighter guess that the boy rescued?
+B,47,Embedded,Null,Who did the firefighter guess the boy rescued?
+B,48,Matrix,That,Who argued that the plaintiff hired the lawyer?
+C,48,Matrix,Null,Who argued the plaintiff hired the lawyer?
+D,48,Embedded,That,Who did the lawyer argue that the plaintiff hired?
+A,48,Embedded,Null,Who did the lawyer argue the plaintiff hired?
+A,49,Matrix,That,Who argued that the defendant bribed the judge?
+B,49,Matrix,Null,Who argued the defendant bribed the judge?
+C,49,Embedded,That,Who did the judge argue that the defendant bribed?
+D,49,Embedded,Null,Who did the judge argue the defendant bribed?
+D,50,Matrix,That,Who guessed that the bird attacked the bird?
+A,50,Matrix,Null,Who guessed the bird attacked the bird?
+B,50,Embedded,That,Who did the bird watcher guess that the bird attacked?
+C,50,Embedded,Null,Who did the bird watcher guess the bird attacked?
+C,51,Matrix,That,Who claimed that the astronaut respects the engineer?
+D,51,Matrix,Null,Who claimed the astronaut respects the engineer?
+A,51,Embedded,That,Who did the engineer claim that the astronaut respects?
+B,51,Embedded,Null,Who did the engineer claim the astronaut respects?
+B,52,Matrix,That,Who assumed that the passenger helped the bus?
+C,52,Matrix,Null,Who assumed the passenger helped the bus?
+D,52,Embedded,That,Who did the bus driver assume that the passenger helped?
+A,52,Embedded,Null,Who did the bus driver assume the passenger helped?
+A,53,Matrix,That,Who hinted that the nun loves the monk?
+B,53,Matrix,Null,Who hinted the nun loves the monk?
+C,53,Embedded,That,Who did the monk hint that the nun loves?
+D,53,Embedded,Null,Who did the monk hint the nun loves?
+D,54,Matrix,That,Who supposed that the florist married the baker?
+A,54,Matrix,Null,Who supposed the florist married the baker?
+B,54,Embedded,That,Who did the baker suppose that the florist married?
+C,54,Embedded,Null,Who did the baker suppose the florist married?
+C,55,Matrix,That,Who thought that the patient loved the doctor?
+D,55,Matrix,Null,Who thought the patient loved the doctor?
+A,55,Embedded,That,Who did the doctor think that the patient loved?
+B,55,Embedded,Null,Who did the doctor think the patient loved?
+B,56,Matrix,That,Who insisted that the salesperson called the customer?
+C,56,Matrix,Null,Who insisted the salesperson called the customer?
+D,56,Embedded,That,Who did the customer insist that the salesperson called?
+A,56,Embedded,Null,Who did the customer insist the salesperson called?

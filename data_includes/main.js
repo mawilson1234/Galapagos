@@ -68,7 +68,7 @@ newTrial('instructions1',
         .print()
         .wait(getHtml('instructions1')
                 .test.complete()
-                .failure(getHtml('instructions1')
+                .failure(getHtml('INSTRUCTIONS1')
                             .warn()
                 )
         )
