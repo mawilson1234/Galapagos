@@ -230,6 +230,8 @@ Template('that.csv', variable => ['trial_that',
         .log(variable.Item)
         .log(variable.Extraction)
         .log(variable.Comp)
+        .log(variable.Verb)
+        .log(variable.PrThat)
         .log(variable.Sentence)
    ]
 )
