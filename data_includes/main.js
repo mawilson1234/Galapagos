@@ -144,7 +144,7 @@ Template('practice.csv', variable => ['trial_prac',
                   errorMessage: 'Timed out. Please respond more quickly.'}
     ,
     'PennController', PennController()
-        .log(variable.Sentence)
+        .log("Sentence", variable.Sentence)
    ]
 )
 
@@ -195,12 +195,12 @@ Template('agr-att.csv', variable => ['trial_agr-att',
                   errorMessage: 'Timed out. Please respond more quickly.'}
     ,
     'PennController', PennController()
-        .log(variable.Group)
-        .log(variable.Item)
-        .log(variable.Gram)
-        .log(variable.Match)
-        .log(variable.Distance)
-        .log(variable.Sentence)
+        .log("Group", variable.Group)
+        .log("Item", variable.Item)
+        .log("Gram", variable.Gram)
+        .log("Match", variable.Match)
+        .log("Distance", variable.Distance)
+        .log("Sentence", variable.Sentence)
    ]
 )
 
@@ -226,13 +226,13 @@ Template('that.csv', variable => ['trial_that',
                   errorMessage: 'Timed out. Please respond more quickly.'}
     ,
     'PennController', PennController()
-        .log(variable.Group)
-        .log(variable.Item)
-        .log(variable.Extraction)
-        .log(variable.Comp)
-        .log(variable.Verb)
-        .log(variable.PrThat)
-        .log(variable.Sentence)
+        .log("Group", variable.Group)
+        .log("Item", variable.Item)
+        .log("Extraction", variable.Extraction)
+        .log("Comp", variable.Comp)
+        .log("Verb", variable.Verb)
+        .log("PrThat", variable.PrThat)
+        .log("Sentence", variable.Sentence)
    ]
 )
 
@@ -258,16 +258,16 @@ Template('experiencer.csv', variable => ['trial_experiencer',
                   errorMessage: 'Timed out. Please respond more quickly.'}
     ,
     'PennController', PennController()
-        .log(variable.Group)
-        .log(variable.Item)
-        .log(variable.Verb)
-        .log(variable.VerbType)
-        .log(variable.SentenceVoice)
-        .log(variable.VerbFrequency)
-        .log(variable.VerbLength)
-        .log(variable.EmotionalValence)
-        .log(variable.EVPairType)
-        .log(variable.Sentence)
+        .log("Group", variable.Group)
+        .log("Item", variable.Item)
+        .log("Verb", variable.Verb)
+        .log("VerbType", variable.VerbType)
+        .log("SentenceVoice", variable.SentenceVoice)
+        .log("VerbFrequency", variable.VerbFrequency)
+        .log("VerbLength", variable.VerbLength)
+        .log("EmotionalValence", variable.EmotionalValence)
+        .log("EVPairType", variable.EVPairType)
+        .log("Sentence", variable.Sentence)
    ]
 )
 
@@ -293,11 +293,12 @@ Template('fillers.csv', variable => ['trial_filler',
                   errorMessage: 'Timed out. Please respond more quickly.'}
     ,
     'PennController', PennController()
-        .log(variable.Group)
-        .log(variable.Item)
-        .log(variable.Gram)
-        .log(variable.Type)
-        .log(variable.Sentence)
+        .log("Group", variable.Group)
+        .log("Item", variable.Item)
+        .log("Gram", variable.Gram)
+        .log("Paren", variable.Paren)
+        .log("Type", variable.Type)
+        .log("Sentence", variable.Sentence)
    ]
 )
 
@@ -323,11 +324,11 @@ Template('whif.csv', variable => ['trial_whif',
                   errorMessage: 'Timed out. Please respond more quickly.'}
     ,
     'PennController', PennController()
-        .log(variable.Group)
-        .log(variable.Item)
-        .log(variable.Structure)
-        .log(variable.GapPosition)
-        .log(variable.Sentence)
+        .log("Group", variable.Group)
+        .log("Item", variable.Item)
+        .log("Structure", variable.Structure)
+        .log("GapPosition", variable.GapPosition)
+        .log("Sentence", variable.Sentence)
    ]
 )
 
